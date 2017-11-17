@@ -8,13 +8,13 @@ Make sure to connect PIN 32 to GND, so the good measurements will be around zero
 
 ```
 I (99) main: initial boot
-I (99) main: resetting counters
 I (99) main: starting ULP program
+I (99) main: resetting counters
 I (99) main: entering deep sleep
 
-I (99) main: samples taken 204
-I (99) main: first bad sample at 201
-I (99) main: number of bad samples 2
+I (99) main: samples taken 502
+I (99) main: first bad sample at 495
+I (99) main: number of bad samples 6
 I (99) main: resetting counters
 I (99) main: entering deep sleep
 ```
