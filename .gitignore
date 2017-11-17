@@ -1,0 +1,10 @@
+# OS files
+.DS_Store
+
+# build files
+build/
+cmake-build-debug/
+
+# private project files
+.idea/workspace.xml
+.idea/tasks.xml
